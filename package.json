@@ -1,0 +1,26 @@
+{
+  "name": "js-pig-translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartaKatona/js-pig-translator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartaKatona/js-pig-translator/issues"
+  },
+  "homepage": "https://github.com/MartaKatona/js-pig-translator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
